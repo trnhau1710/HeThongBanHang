@@ -1,0 +1,13 @@
+com\thh\pojo\Comment.class
+com\thh\pojo\SaleOrder.class
+com\thh\hibernatedemov1\HibernateDemoV1.class
+com\thh\pojo\ProdTag.class
+com\thh\repository\impl\CategoryRepositoryImpl.class
+com\thh\pojo\Product.class
+com\thh\pojo\Tag.class
+com\thh\repository\impl\ProductRepositoryImpl.class
+com\thh\hibernatedemov1\HibernateUtils.class
+com\thh\pojo\Category.class
+com\thh\pojo\User.class
+com\thh\pojo\OrderDetail.class
+com\thh\repository\impl\StatsRepositoryImpl.class
